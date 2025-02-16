@@ -45,7 +45,7 @@ A Python tool to automatically claim Discord HypeSquad badges for multiple accou
 
 4. **Run the Script**:
    ```bash
-   python hypesquad_claimer.py
+   python index.py
    ```
 
 ---
