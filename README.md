@@ -55,7 +55,7 @@ A Python tool to automatically claim Discord HypeSquad badges for multiple accou
 1. Place your accounts in the `input/accounts.txt` file.
 2. Run the script:
    ```bash
-   python hypesquad_claimer.py
+   python index.py
    ```
 3. View the logs in the console or in the `hypesquad.log` file for detailed output.
 
